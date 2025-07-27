@@ -330,7 +330,7 @@ a {
 }
 @media(max-width: 400px) {
   .container {
-    max-width :300px; 
+    max-width :400px; 
     padding-inline: 20px;
   } 
   header .nav-header .nav-bar{
