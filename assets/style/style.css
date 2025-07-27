@@ -321,10 +321,10 @@ a {
     font-size: 40px;
   }
   .picture-icon-star.white{
-    width: 75px;
+    max-width: 50px;
   }
   .picture-icon-star.black{
-    width: 75px;
+    max-width: 50px;
   }
 
 }
