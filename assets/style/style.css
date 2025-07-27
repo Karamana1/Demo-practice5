@@ -319,4 +319,27 @@ a {
   }
 
 }
+@media(max-width: 700px) {
+  .container {
+    max-width :600px; 
+    padding-inline: 20px;
+  }
+  header .nav-header .nav-bar{
+    display: none;
+  }
+  .row{
+    margin-inline: 20px;
+  }
+  .col-4{
+    width: 100%;
+    
+  }
+   .contact-me .input-info input{
+    max-width: 500px;
+  }
+  header{
+    max-width:100%;
+  }
+
+}
 
