@@ -197,6 +197,15 @@ div[class*="-img"] img {
   margin: 50px auto;
   border-radius: 10px;
   cursor: pointer;
+  background-color: #1abc9c;
+  border: transparent;
+  color: #fff;
+  transition: 0.4s;
+}
+.About .about-btn:hover{
+  background-color: transparent;
+  border: 1px solid #2c3e50;
+  color: #2c3e50;
 }
 
 .contact-me .contact-title {
